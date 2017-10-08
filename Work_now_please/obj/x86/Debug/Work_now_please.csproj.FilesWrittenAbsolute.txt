@@ -1,0 +1,5 @@
+/Users/benjaminnordin/Projects/Work_now_please/Work_now_please/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/benjaminnordin/Projects/Work_now_please/Work_now_please/bin/Debug/Work_now_please.exe.mdb
+/Users/benjaminnordin/Projects/Work_now_please/Work_now_please/bin/Debug/Work_now_please.exe
+/Users/benjaminnordin/Projects/Work_now_please/Work_now_please/obj/x86/Debug/Work_now_please.exe
+/Users/benjaminnordin/Projects/Work_now_please/Work_now_please/obj/x86/Debug/Work_now_please.exe.mdb

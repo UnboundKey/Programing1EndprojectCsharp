@@ -1,0 +1,3 @@
+/Users/benjaminnordin/Projects/Work_now_please/Work_now_please/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/benjaminnordin/Projects/Work_now_please/Work_now_please/bin/Release/Work_now_please.exe
+/Users/benjaminnordin/Projects/Work_now_please/Work_now_please/obj/x86/Release/Work_now_please.exe
